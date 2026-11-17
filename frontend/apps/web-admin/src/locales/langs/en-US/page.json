@@ -1,0 +1,32 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "codeLogin": "Code Login",
+    "qrcodeLogin": "Qr Code Login",
+    "forgetPassword": "Forget Password"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "analytics": "Analytics",
+    "workspace": "Workspace"
+  },
+  "common": {
+    "id": "ID",
+    "action": "Action",
+    "detail": "Detail",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "status": "Status",
+    "save": "Save",
+    "createTime": "Created (UTC)",
+    "updateTime": "Updated (UTC)",
+    "operateSuccess": "Operation succeeded",
+    "operateFailed": "Operation failed",
+    "deleteSuccess": "Deleted successfully",
+    "updateSuccess": "Updated successfully",
+    "saveSuccess": "Saved successfully"
+  }
+}

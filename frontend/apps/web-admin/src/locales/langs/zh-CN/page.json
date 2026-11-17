@@ -1,0 +1,32 @@
+{
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "codeLogin": "验证码登录",
+    "qrcodeLogin": "二维码登录",
+    "forgetPassword": "忘记密码"
+  },
+  "dashboard": {
+    "title": "概览",
+    "analytics": "分析页",
+    "workspace": "工作台"
+  },
+  "common": {
+    "id": "ID",
+    "action": "操作",
+    "detail": "详情",
+    "edit": "编辑",
+    "delete": "删除",
+    "confirm": "确认",
+    "cancel": "取消",
+    "status": "状态",
+    "save": "保存",
+    "createTime": "创建时间(UTC)",
+    "updateTime": "最近更新(UTC)",
+    "operateSuccess": "操作成功",
+    "operateFailed": "操作失败",
+    "deleteSuccess": "删除成功",
+    "updateSuccess": "更新成功",
+    "saveSuccess": "保存成功"
+  }
+}
